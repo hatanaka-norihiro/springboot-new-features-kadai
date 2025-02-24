@@ -1,0 +1,9 @@
+2025-02-24 09:34:01,175 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-24 09:36:29,176 [Worker-3: ビルド] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:samuraitravel:0.0.1-SNAPSHOT @ C:\Development\kadai_003\kadai_003\samuraitravel\pom.xml.
+2025-02-24 09:36:42,204 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-02-24 09:36:42,319 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 45 resources from src\main\resources to target\classes
+2025-02-24 09:36:43,155 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Development\kadai_003\kadai_003\samuraitravel\src\test\resources
+2025-02-24 09:37:46,797 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-24 09:41:03,538 [Worker-9: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-02-24 09:41:03,587 [Worker-9: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 45 resources from src\main\resources to target\classes
+2025-02-24 09:41:03,840 [Worker-9: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Development\kadai_003\kadai_003\samuraitravel\src\test\resources
